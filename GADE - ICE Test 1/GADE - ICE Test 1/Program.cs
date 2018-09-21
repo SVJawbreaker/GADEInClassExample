@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace GADE___ICE_Test_1
 {
+    //Added this project to source control with GitHub
     public class Hero
     {
         private int hp;
